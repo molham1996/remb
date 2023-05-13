@@ -4,6 +4,7 @@ import 'package:splashscreen/splashscreen.dart';
 import 'config.dart';
 import 'homeview.dart';
 
+
 class Splash extends StatefulWidget {
   @override
   // ignore: library_private_types_in_public_api
