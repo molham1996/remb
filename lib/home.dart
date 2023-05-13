@@ -3,7 +3,7 @@ import 'package:splashscreen/splashscreen.dart';
 
 import 'config.dart';
 import 'homeview.dart';
-
+//molham coomit
 
 class Splash extends StatefulWidget {
   @override
